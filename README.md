@@ -10,10 +10,10 @@ The code implements the finite element method (FEM) to calculate and analyze the
 
 This work was collaboratively completed by the following researchers:
 
-* **Zixu XIA**^1
-* **Runze ZHANG**^1
-* **Nian SHEN**^1
-* **Yu CONG**^1
+* **Zixu XIA**¹
+* **Runze ZHANG**¹
+* **Nian SHEN**¹
+* **Yu CONG**¹
   
 1 Université Paris-Saclay, Univ Evry, LMEE, 91020, Evry, France
   
