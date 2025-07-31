@@ -4,18 +4,18 @@ This repository contains the MATLAB source code for the bandgap analysis of hydr
 
 ## Description
 
-The code implements the finite element method (FEM) to calculate and analyze the bandgap structure of hydro-elastic models under specific conditions. By running the provided scripts, users can reproduce the key findings and figures presented in our study.
+The code implements the finite element method (FEM) to calculate and analyze the bandgap of hydro-elastic models under specific conditions. By running the provided scripts, users can reproduce the key findings and figures presented in our study.
 
 ## Authors and Contributors
 
 This work was collaboratively completed by the following researchers:
 
-* **Zixu XIA**
-* **Runze ZHANG**
-* **Nian SHEN**
-* **Yu CONG**
+* **Zixu XIA**^1
+* **Runze ZHANG**^1
+* **Nian SHEN**^1
+* **Yu CONG**^1
   
-* Université Paris-Saclay, Univ Evry, LMEE, 91020, Evry, France
+1 Université Paris-Saclay, Univ Evry, LMEE, 91020, Evry, France
   
 ## File Structure
 
