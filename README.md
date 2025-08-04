@@ -10,9 +10,9 @@ The code implements the finite element method (FEM) to calculate and analyze the
 
 This work was collaboratively completed by the following researchers:
 
-* **Zixu XIA**¹
-* **Runze ZHANG**¹
 * **Nian SHEN**¹
+* **Runze ZHANG**¹
+* **Zixu XIA**¹
 * **Yu CONG**¹
   
 1 Université Paris-Saclay, Univ Evry, LMEE, 91020, Evry, France
@@ -26,3 +26,9 @@ A brief overview of the key files in this project:
 ## Citation
 
 If you use this code in your research, please cite our paper: Vibration bandgap of immersed periodic plates with fluid surface sloshing effect
+
+## References
+
+The numerical methods and theoretical background for this code are mainly based on foundational work in fluid-structure interaction:
+1.  H. J.-P. Morand, R. Ohayon. *Fluid-structure interaction: Applied numerical methods*. 1995. 
+2.  J.-F. Sigrist. *Fluid-structure interaction: An introduction to finite element coupling*. 2015.
